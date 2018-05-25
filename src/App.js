@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import shuffle from "shuffle-array"
+import shuffle from "shuffle-arr"
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
