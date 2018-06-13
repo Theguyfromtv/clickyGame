@@ -27,7 +27,7 @@ class App extends Component {
       console.log( this.state.guessed)
       console.log(id)
       if(this.state.score===52){
-        alert("You did it! You must have nothing better to do!")
+        alert("You did it! You must have nothing better to do with your life!")
       }
 
     }else{
@@ -52,6 +52,7 @@ class App extends Component {
             gameFunction={this.gameFunction}
             id={friend.id}
             key={friend.id}
+            image={friend.image}
           />
         ))}
       </Wrapper>
