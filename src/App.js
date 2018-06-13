@@ -43,7 +43,7 @@ class App extends Component {
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
-      <Wrapper>
+      <Wrapper >
         <Title>52 Card Pickup</Title>
         <h4>Pick each card once to win the jackpot!</h4>
         <Score score={this.state.score}/>

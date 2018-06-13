@@ -4,6 +4,8 @@
   margin-bottom: 50px;
 }
 
-body{
-  background-image: "./background.jpg"
+
+
+.card{
+  border-radius: 15px;
 }
