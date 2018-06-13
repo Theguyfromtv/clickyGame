@@ -5,7 +5,7 @@ import "./FriendCard.css";
 const FriendCard = props => (
   <div className="card">
     <div className="img-container">
-      <img className="card-img" alt={props.name} src={props.image} onClick={() => props.gameFunction(props.id)}/>
+      <img className="card-img" onClick={() => props.gameFunction(props.id)}/>
     </div>
   </div>
 );

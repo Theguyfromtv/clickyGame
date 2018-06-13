@@ -1,86 +1,212 @@
 [
   {
-    "id": 1,
-    "name": "SpongeBob",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
-  },
-  {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "image": "../public/PNG 3/2C"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "image": "../public/PNG 3/3C"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "image": "../public/PNG 3/4C"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "image": "../public/PNG 3/5C"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "image": "../public/PNG 3/6C"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "image": "../public/PNG 3/7C"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "image": "../public/PNG 3/8C"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "image": "../public/PNG 3/9C"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "image": "../public/PNG 3/10C"
   },
   {
-    "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "id":11 ,
+    "image": "../public/PNG 3/2D"
   },
   {
-    "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "id":12 ,
+    "image": "../public/PNG 3/3D"
+  },
+  {
+    "id":13 ,
+    "image": "../public/PNG 3/4D"
+  },
+  {
+    "id":14 ,
+    "image": "../public/PNG 3/5D"
+  },
+  {
+    "id":15 ,
+    "image": "../public/PNG 3/6D"
+  },
+  {
+    "id":16 ,
+    "image": "../public/PNG 3/7D"
+  },
+  {
+    "id":17 ,
+    "image": "../public/PNG 3/8D"
+  },
+  {
+    "id":18 ,
+    "image": "../public/PNG 3/9D"
+  },
+  {
+    "id":18 ,
+    "image": "../public/PNG 3/10D"
+  },
+  {
+    "id":19 ,
+    "image": "../public/PNG 3/2S"
+  },
+  {
+    "id":20 ,
+    "image": "../public/PNG 3/3S"
+  },
+  {
+    "id":21 ,
+    "image": "../public/PNG 3/4S"
+  },
+  {
+    "id":22 ,
+    "image": "../public/PNG 3/5S"
+  },
+  {
+    "id":23 ,
+    "image": "../public/PNG 3/6S"
+  },
+  {
+    "id":24 ,
+    "image": "../public/PNG 3/7S"
+  },
+  {
+    "id":25 ,
+    "image": "../public/PNG 3/8S"
+  },
+  {
+    "id":26 ,
+    "image": "../public/PNG 3/9S"
+  },
+  {
+    "id":27 ,
+    "image": "../public/PNG 3/10S"
+  },
+  {
+    "id":28 ,
+    "image": "../public/PNG 3/2H"
+  },
+  {
+    "id":29 ,
+    "image": "../public/PNG 3/3H"
+  },
+  {
+    "id":30 ,
+    "image": "../public/PNG 3/4H"
+  },
+  {
+    "id":31 ,
+    "image": "../public/PNG 3/5H"
+  },
+  {
+    "id":32 ,
+    "image": "../public/PNG 3/6H"
+  },
+  {
+    "id":33 ,
+    "image": "../public/PNG 3/7H"
+  },
+  {
+    "id":34 ,
+    "image": "../public/PNG 3/8H"
+  },
+  {
+    "id":35 ,
+    "image": "../public/PNG 3/9H"
+  },
+  {
+    "id":36 ,
+    "image": "../public/PNG 3/10H"
+  },
+  {
+    "id":37 ,
+    "image": "../public/PNG 3/AC"
+  },
+  {
+    "id":38 ,
+    "image": "../public/PNG 3/AD"
+  },
+  {
+    "id":39 ,
+    "image": "../public/PNG 3/AH"
+  },
+  {
+    "id":40 ,
+    "image": "../public/PNG 3/AS"
+  },
+  {
+    "id":41 ,
+    "image": "../public/PNG 3/JC"
+  },
+  {
+    "id":42 ,
+    "image": "../public/PNG 3/JD"
+  },
+  {
+    "id":43 ,
+    "image": "../public/PNG 3/JH"
+  },
+  {
+    "id":44 ,
+    "image": "../public/PNG 3/JS"
+  },
+  {
+    "id":45 ,
+    "image": "../public/PNG 3/KC"
+  },
+  {
+    "id":46 ,
+    "image": "../public/PNG 3/KD"
+  },
+  {
+    "id":47 ,
+    "image": "../public/PNG 3/KH"
+  },
+  {
+    "id":48 ,
+    "image": "../public/PNG 3/KS"
+  },
+  {
+    "id":49 ,
+    "image": "../public/PNG 3/QC"
+  },
+  {
+    "id":50 ,
+    "image": "../public/PNG 3/QD"
+  },
+  {
+    "id":51 ,
+    "image": "../public/PNG 3/QH"
+  },
+  {
+    "id":52 ,
+    "image": "../public/PNG 3/QS"
   }
+
+
 ]

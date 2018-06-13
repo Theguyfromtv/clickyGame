@@ -26,9 +26,13 @@ class App extends Component {
       //console.log(this.state.score)
       console.log( this.state.guessed)
       console.log(id)
+      if(this.state.score===52){
+        alert("You did it! You must have nothing better to do!")
+      }
 
     }else{
       this.setState({score:0, guessed:[]})
+      alert("You couldn't pick up 52 cards, what are you doing with your life?")
       console.log( this.state.guessed)
       console.log(id)
     }
@@ -40,14 +44,14 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>52 Card Pickup</Title>
+        <h4>Pick each card once to win the jackpot!</h4>
         <Score score={this.state.score}/>
         {this.state.images.map(friend => (
           <FriendCard
             gameFunction={this.gameFunction}
             id={friend.id}
             key={friend.id}
-            image={friend.image}
           />
         ))}
       </Wrapper>
