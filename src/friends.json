@@ -37,75 +37,75 @@
   },
   {
     "id":11 ,
-    "image": "./PNG3/2D"
+    "image": "./PNG3/2D.png"
   },
   {
     "id":12 ,
-    "image": "./PNG3/3D"
+    "image": "./PNG3/3D.png"
   },
   {
     "id":13 ,
-    "image": "./PNG3/4D"
+    "image": "./PNG3/4D.png"
   },
   {
     "id":14 ,
-    "image": "./PNG3/5D"
+    "image": "./PNG3/5D.png"
   },
   {
     "id":15 ,
-    "image": "./PNG3/6D"
+    "image": "./PNG3/6D.png"
   },
   {
     "id":16 ,
-    "image": "./PNG3/7D"
+    "image": "./PNG3/7D.png"
   },
   {
     "id":17 ,
-    "image": "./PNG3/8D"
+    "image": "./PNG3/8D.png"
   },
   {
     "id":18 ,
-    "image": "./PNG3/9D"
+    "image": "./PNG3/9D.png"
   },
   {
     "id":53 ,
-    "image": "./PNG3/10D"
+    "image": "./PNG3/10D.png"
   },
   {
     "id":19 ,
-    "image": "./PNG3/2S"
+    "image": "./PNG3/2S.png"
   },
   {
     "id":20 ,
-    "image": "./PNG3/3S"
+    "image": "./PNG3/3S.png"
   },
   {
     "id":21 ,
-    "image": "./PNG3/4S"
+    "image": "./PNG3/4S.png"
   },
   {
     "id":22 ,
-    "image": "./PNG3/5S"
+    "image": "./PNG3/5S.png"
   },
   {
     "id":23 ,
-    "image": "./PNG3/6S"
+    "image": "./PNG3/6S.png"
   },
   {
     "id":24 ,
-    "image": "./PNG3/7S"
+    "image": "./PNG3/7S.png"
   },
   {
     "id":25 ,
-    "image": "./PNG3/8S"
+    "image": "./PNG3/8S.png"
   },
   {
     "id":26 ,
-    "image": "./PNG3/9S"
+    "image": "./PNG3/9S.png"
   },
   {
     "id":27 ,
-    "image": "./PNG3/10S"
+    "image": "./PNG3/10S.png"
   },
   {
     "id":28 ,
@@ -149,7 +149,7 @@
   },
   {
     "id":38 ,
-    "image": "./PNG3/AD"
+    "image": "./PNG3/AD.png"
   },
   {
     "id":39 ,
@@ -157,7 +157,7 @@
   },
   {
     "id":40 ,
-    "image": "./PNG3/AS"
+    "image": "./PNG3/AS.png"
   },
   {
     "id":41 ,
@@ -165,7 +165,7 @@
   },
   {
     "id":42 ,
-    "image": "./PNG3/JD"
+    "image": "./PNG3/JD.png"
   },
   {
     "id":43 ,
@@ -173,7 +173,7 @@
   },
   {
     "id":44 ,
-    "image": "./PNG3/JS"
+    "image": "./PNG3/JS.png"
   },
   {
     "id":45 ,
@@ -181,7 +181,7 @@
   },
   {
     "id":46 ,
-    "image": "./PNG3/KD"
+    "image": "./PNG3/KD.png"
   },
   {
     "id":47 ,
@@ -189,7 +189,7 @@
   },
   {
     "id":48 ,
-    "image": "./PNG3/KS"
+    "image": "./PNG3/KS.png"
   },
   {
     "id":49 ,
@@ -197,7 +197,7 @@
   },
   {
     "id":50 ,
-    "image": "./PNG3/QD"
+    "image": "./PNG3/QD.png"
   },
   {
     "id":51 ,
@@ -205,7 +205,7 @@
   },
   {
     "id":52 ,
-    "image": "./PNG3/QS"
+    "image": "./PNG3/QS.png"
   }
 
 
