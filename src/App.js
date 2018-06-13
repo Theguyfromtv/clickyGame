@@ -3,7 +3,7 @@ import shuffle from "shuffle-arr"
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "../public/friends.json";
+import friends from "./friends.json";
 import Score from "./components/Score"
 import "./App.css";
 
